@@ -13,3 +13,7 @@ Hi! I'm Eric
 
 ## Currently working on:
 [Portfolio Website](https://github.com/eric-k-chu/Portfolio)
+
+## Future Projects:
+* Rebuilt of [Castle](https://github.com/eric-k-chu/Castle) with Next.js
+* Chat Application using Socket.io with Next.js and Vercel
