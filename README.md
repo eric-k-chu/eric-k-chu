@@ -3,6 +3,9 @@
 <!--
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=radical)
 -->
+
+[Portfolio](https://eric-k-chu.github.io/Portfolio/)
+
 Hi! I'm Eric
 
 * Full-Stack Software Engineer
