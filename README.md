@@ -14,6 +14,8 @@ Hi! I'm Eric
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu)](https://github.com/eric-k-chu/github-readme-stats)
 
+## Curently working on:
+* [Castle-v2](https://github.com/eric-k-chu/Castle-v2) with Next.js
+
 ## Future Projects:
-* Rebuilt of [Castle](https://github.com/eric-k-chu/Castle) with Next.js
 * Chat Application using Socket.io with Next.js and Vercel
