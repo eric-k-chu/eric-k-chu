@@ -19,9 +19,9 @@ Hi! I'm Eric
 
 ## Future Projects:
 * CRUD CLI with
+  * C++
+  * Java
   * Go
   * Rust
-  * Java
-  * C++
 * Chat Application using Socket.io with Next.js and Vercel
 * Revisiting Unity
