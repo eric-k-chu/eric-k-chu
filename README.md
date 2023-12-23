@@ -18,4 +18,9 @@ Hi! I'm Eric
 * [Castle-v2](https://github.com/eric-k-chu/Castle-v2) with Next.js
 
 ## Future Projects:
+* CRUD CLI with
+  * Go
+  * Rust
+  * Java
+  * C++
 * Chat Application using Socket.io with Next.js and Vercel
