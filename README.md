@@ -15,11 +15,10 @@ Hi! I'm Eric
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Curently working on:
-* [Castle-v2](https://github.com/eric-k-chu/Castle-v2) with Next.js
+* CRUC CLI with C++
 
 ## Future Projects:
 * CRUD CLI with
-  * C++
   * Java
   * Go
   * Rust
