@@ -24,4 +24,5 @@ Hi! I'm Eric
   * Go
   * Rust
 * Chat Application using Socket.io with Next.js and Vercel
+* Web Application with Solid.js
 * Revisiting Unity
