@@ -14,7 +14,10 @@ Hi! I'm Eric
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=eric-k-chu&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
+
 
 
 ## Curently working on:
