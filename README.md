@@ -12,7 +12,10 @@ Hi! I'm Eric
 * Web Development
 * Game Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu)](https://github.com/eric-k-chu/github-readme-stats)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
+
 
 ## Curently working on:
 * [Castle](https://github.com/eric-k-chu/Castle-v2) rebuilt with Next.js
