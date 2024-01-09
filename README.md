@@ -32,4 +32,5 @@ Hi! I'm Eric
 * Node.js file streaming
 * Chat Application using Socket.io with Next.js and Vercel
 * Web Application with Solid.js
+* ffmpeg video clipper with [Tauri](https://tauri.app/)
 * Revisiting Unity
