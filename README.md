@@ -27,8 +27,7 @@ Hi! I'm Eric
   * Java
   * Go
   * Rust
-* Node.js file streaming
-* Chat Application using Socket.io with Next.js and Vercel
-* Web Application with Solid.js
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
+* Node.js file streaming
+* Web Application with Solid.js
 * Revisiting Unity
