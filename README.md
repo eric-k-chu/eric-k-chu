@@ -19,14 +19,13 @@ Hi! I'm Eric
 
 
 ## Curently working on:
-* [Castle](https://github.com/eric-k-chu/Castle-v2) rebuilt with Next.js
-
-## Future Projects:
 * CRUD CLI with
   * C++ 
   * Java
   * Go
   * Rust
+
+## Future Projects:
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
 * Node.js file streaming
 * Web Application with Solid.js
