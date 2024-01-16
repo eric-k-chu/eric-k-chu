@@ -5,13 +5,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Curently working on:
+[Deskord](https://github.com/eric-k-chu/deskord) - a desktop discord clone
+
+
+## Future Projects:
 * CRUD CLI with
   * C++ 
   * Java
   * Go
   * Rust
-
-## Future Projects:
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
 * Node.js file streaming
 * Web Application with Solid.js
