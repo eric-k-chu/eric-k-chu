@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Curently working on:
+[Synth Impl](https://github.com/eric-k-chu/synth-impl) - Poe Synthesis Implicit Item Creator
 [Deskord](https://github.com/eric-k-chu/deskord) - a desktop discord clone
 
 
