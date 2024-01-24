@@ -7,7 +7,7 @@
 ## Curently working on:
 [Synth Impl](https://github.com/eric-k-chu/synth-impl) - Poe Synthesis Implicit Item Creator
 
-[Deskord](https://github.com/eric-k-chu/deskord) - a desktop discord clone
+[Deskord](https://github.com/eric-k-chu/deskord) - a desktop discord clone with Next.js and MongoDB
 
 
 ## Future Projects:
