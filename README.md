@@ -7,6 +7,11 @@
 ## Curently working on:
 [Portfolio site redesigned](https://github.com/eric-k-chu/kiyuen) with Next.js
 
+## Currently learning/revisiting: 
+* [Unity](https://github.com/eric-k-chu/unity-exercises)
+* [Svelte](https://github.com/eric-k-chu/svelte-exercises)
+* [Go](https://github.com/eric-k-chu/golang-exercises)
+
 
 ## Future Projects:
 * blog website with Next.js and MongoDB
