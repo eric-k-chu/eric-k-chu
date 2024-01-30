@@ -23,4 +23,3 @@
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
 * Node.js file streaming
 * Web Application with Solid.js
-* Revisiting Unity
