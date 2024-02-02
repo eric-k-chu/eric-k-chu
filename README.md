@@ -17,7 +17,7 @@
 * blog website with Next.js and MongoDB
 * CRUD CLI with
   * C++ 
-  * Java
+  * C#
   * Go
   * Rust
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
