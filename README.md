@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Curently working on:
-[Portfolio site redesigned](https://github.com/eric-k-chu/kiyuen) with Next.js
+blog website with Next.js and MongoDB
 
 ## Currently learning/revisiting: 
 * [Unity](https://github.com/eric-k-chu/unity-exercises)
@@ -14,7 +14,6 @@
 
 
 ## Future Projects:
-* blog website with Next.js and MongoDB
 * CRUD CLI with
   * C++ 
   * C#
