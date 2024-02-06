@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Curently working on:
-* TODO CLI with Docker
+* [TODO CLI](https://github.com/eric-k-chu/todo-cli) with Docker
   * C++ 
   * C#
   * Go
