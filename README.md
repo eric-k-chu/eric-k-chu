@@ -18,6 +18,7 @@
 
 
 ## Future Projects:
+* web app with ASP.NET / Blazor
 * blog website with Next.js and MongoDB
 * ffmpeg video clipper with [Tauri](https://tauri.app/)
 * Node.js file streaming
