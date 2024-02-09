@@ -15,11 +15,13 @@
 ### :clock1: Future Projects...
 
 ```JavaScript
-await new Promise(resolve => resolve({
-    blazor: "web app with ASP.NET",
-    blog: "blog website with Next.js and MongoDB",
-    tauri: "ffmpeg video clipper with Tauri",
-}));
+  await new Promise((resolve) =>
+    resolve({
+      blazor: "web app with ASP.NET",
+      blog: "blog website with Next.js and MongoDB",
+      tauri: "ffmpeg video clipper with Tauri",
+    })
+  );
 ```
 ---
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight)
