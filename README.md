@@ -1,5 +1,7 @@
 <h1>
   <img src="https://cdn.7tv.app/emote/651c53a939bda127a3225b1f/4x.webp" width="50"/>
+  <img src="https://cdn.7tv.app/emote/6309e73ffe72a7a37ff476f5/4x.webp" height="50"/>
+  <img src="https://cdn.7tv.app/emote/6501ea45bad3f314ff03f597/4x.webp" height="50"/>
   Hey, I'm Eric!
 </h1>
 
@@ -7,10 +9,9 @@
 
 ![Static Badge](https://img.shields.io/badge/React-black?logo=react) ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) ![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel) ![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
 
-:pencil2: ![Static Badge](https://img.shields.io/badge/TODO_CLI-green?logo=github&link=https%3A%2F%2Fgithub.com%2Feric-k-chu%2Ftodo-cli)
+:pencil2: [TODO CLI with TypeScript, C++, C#, Go, Rust, and Python](https://github.com/eric-k-chu/todo-cli)
 
-
-:books: ![Static Badge](https://img.shields.io/badge/Unity-orange?logo=github&link=https%3A%2F%2Fgithub.com%2Feric-k-chu%2Funity-exercises) ![Static Badge](https://img.shields.io/badge/Svelte-orange?logo=github&link=https%3A%2F%2Fgithub.com%2Feric-k-chu%2Fsvelte-exercises) ![Static Badge](https://img.shields.io/badge/Golang-orange?logo=github&link=https%3A%2F%2Fgithub.com%2Feric-k-chu%2Fgolang-exercises)
+:books: [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises)
 
 ---
 ### :clock1: Future Projects...
