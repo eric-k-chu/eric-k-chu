@@ -9,7 +9,7 @@
 
 :pencil2: [TODO CLI with TypeScript, C#, Go, Rust, and Python](https://github.com/eric-k-chu/todo-cli)
 
-:books: [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises)
+:books: [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises) | [React](https://github.com/eric-k-chu/react-playground)
 
 ---
 ### :clock1: Future Projects...
