@@ -11,7 +11,7 @@
 
 📚 [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises) | [React](https://github.com/eric-k-chu/react-playground)
 
-🔖 [gradients](https://webgradients.com/)
+🔖 [Gradients](https://webgradients.com/)
 
 ---
 ### :clock1: Future Projects...
@@ -29,3 +29,5 @@
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight&layout=donut)](https://github.com/eric-k-chu/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=eric-k-chu&theme=tokyonight)
