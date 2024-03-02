@@ -7,9 +7,11 @@
 
 ![Static Badge](https://img.shields.io/badge/React-black?logo=react) ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) ![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel) ![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
 
-:pencil2: [TODO CLI with TypeScript, C#, Go, Rust, and Python](https://github.com/eric-k-chu/todo-cli)
+📝 [TODO CLI with TypeScript, C#, Go, Rust, and Python](https://github.com/eric-k-chu/todo-cli)
 
-:books: [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises) | [React](https://github.com/eric-k-chu/react-playground)
+📚 [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [Svelte](https://github.com/eric-k-chu/svelte-exercises) | [React](https://github.com/eric-k-chu/react-playground)
+
+🔖 [gradients](https://webgradients.com/)
 
 ---
 ### :clock1: Future Projects...
