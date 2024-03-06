@@ -19,9 +19,9 @@
 ```JavaScript
   await new Promise((resolve) =>
     resolve({
-      blazor: "web app with ASP.NET",
       blog: "blog website with Next.js and MongoDB",
       tauri: "ffmpeg video clipper with Tauri",
+      parser: "lexical parser",
     })
   );
 ```
