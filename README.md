@@ -19,7 +19,7 @@
 ```JavaScript
   await new Promise((resolve) =>
     resolve({
-      blog: "blog website with Next.js and MongoDB",
+      game: "Hangman with Love2D",
       tauri: "ffmpeg video clipper with Tauri",
       parser: "lexical parser",
     })
