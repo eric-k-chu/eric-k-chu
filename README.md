@@ -20,6 +20,7 @@
   await new Promise((resolve) =>
     resolve({
       game: "Hangman with Love2D",
+      blog: "Personal Blog with NextJS and GitHub CMS",
       tauri: "ffmpeg video clipper with Tauri",
       parser: "lexical parser",
     })
