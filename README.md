@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/React-black?logo=react) ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) ![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel) ![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
 
-📝 [TODO CLI with TypeScript, C#, Go, Rust, and Python](https://github.com/eric-k-chu/todo-cli)
+📝 [League of Legends Client Mock with Tauri](https://github.com/eric-k-chu/league-of-tauri)
 
 📚 [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [CMS with GitHub](https://github.com/eric-k-chu/githubdb) | [Rust](https://github.com/eric-k-chu/rust-exercises)
 
