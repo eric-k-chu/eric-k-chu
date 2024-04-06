@@ -9,7 +9,7 @@
 
 📝 [League of Legends Client Mock with Tauri](https://github.com/eric-k-chu/league-of-tauri)
 
-📚 [Unity](https://github.com/eric-k-chu/unity-exercises) | [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [CMS with GitHub](https://github.com/eric-k-chu/githubdb) | [Rust](https://github.com/eric-k-chu/rust-exercises)
+📚 [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [CMS with GitHub](https://github.com/eric-k-chu/githubdb) | [Rust](https://github.com/eric-k-chu/rust-exercises)
 
 🔖 [Gradients](https://webgradients.com/)
 
