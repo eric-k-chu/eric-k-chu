@@ -23,6 +23,7 @@
       game_3D: "Isometric game with Unity/Unreal",
       game_SDL: "Snake game with C++ SDL",
       tauri: "ffmpeg video clipper with Tauri",
+      portfolio: "update portfolio site",
     })
   );
 ```
