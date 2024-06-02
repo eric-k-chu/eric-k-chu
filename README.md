@@ -19,11 +19,11 @@
 ```JavaScript
   await new Promise((resolve) =>
     resolve({
+      portfolio: "update portfolio site",
+      tauri: "ffmpeg video clipper with Tauri",
       game_2D: "Hangman with Love2D",
       game_3D: "Isometric game with Unity/Unreal",
       game_SDL: "Snake game with C++ SDL",
-      tauri: "ffmpeg video clipper with Tauri",
-      portfolio: "update portfolio site",
     })
   );
 ```
