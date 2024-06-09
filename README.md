@@ -3,10 +3,6 @@
   Hey, I'm Eric!
 </h1>
 
-![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript) ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![Static Badge](https://img.shields.io/badge/C%23-black?logo=c%23)
-
-![Static Badge](https://img.shields.io/badge/React-black?logo=react) ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql) ![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel) ![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
-
 📝 [League of Legends Client Mock with Tauri](https://github.com/eric-k-chu/league-of-tauri)
 
 📚 [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [Rust](https://github.com/eric-k-chu/rust-exercises)
