@@ -7,8 +7,6 @@
 
 📚 [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [Rust](https://github.com/eric-k-chu/rust-exercises)
 
-🔖 [Gradients](https://webgradients.com/)
-
 ---
 ### :clock1: Future Projects...
 
@@ -27,3 +25,11 @@
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight&layout=donut)](https://github.com/eric-k-chu/github-readme-stats)
+
+## Skills
+
+#### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,cs)](https://skillicons.dev)
+
+#### Some Technologies
+[![Technologies](https://skillicons.dev/icons?i=next,react,unity,tailwind,pnpm,blender,aws,vite)](https://skillicons.dev)
