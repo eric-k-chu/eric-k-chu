@@ -19,7 +19,7 @@
 ```JavaScript
   await new Promise((resolve) =>
     resolve({
-      rubik: "moveable rubiks cube with three.js",
+      rubik: "moveable rubiks cube with three.js and Blender",
       tauri: "ffmpeg video clipper with Tauri",
       game_2D: "Hangman with Love2D",
       game_3D: "Isometric game with Unity/Unreal",
