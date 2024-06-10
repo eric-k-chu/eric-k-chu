@@ -5,8 +5,6 @@
 
 📝 [League of Legends Client Mock with Tauri](https://github.com/eric-k-chu/league-of-tauri)
 
-📚 [Golang](https://github.com/eric-k-chu/golang-exercises) | [React](https://github.com/eric-k-chu/react-playground) | [Lua](https://github.com/eric-k-chu/lua-playground) | [Rust](https://github.com/eric-k-chu/rust-exercises)
-
 ---
 ### :clock1: Future Projects...
 
