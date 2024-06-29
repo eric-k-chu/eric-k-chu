@@ -12,6 +12,7 @@
   await new Promise((resolve) =>
     resolve({
       rubik: "moveable rubiks cube with three.js and Blender",
+      game_2D: "2d game with Godot",
       tauri: "ffmpeg video clipper with Tauri",
       game_3D: "Isometric game with Unity/Unreal"
     })
