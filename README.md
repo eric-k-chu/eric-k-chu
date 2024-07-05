@@ -3,8 +3,6 @@
   Hey, I'm Eric!
 </h1>
 
-[Settings + Keybinds](https://github.com/eric-k-chu/config)
-
 ---
 ### :clock1: Future Projects...
 
