@@ -3,7 +3,7 @@
   Hey, I'm Eric!
 </h1>
 
-📝 [WIP Moveable Rubik's Cube in the browser](https://github.com/eric-k-chu/rubik)
+[Settings](https://github.com/eric-k-chu/config)
 
 ---
 ### :clock1: Future Projects...
