@@ -3,7 +3,6 @@
   Hey, I'm Eric!
 </h1>
 
----
 ### :clock1: Future Projects...
 
 ```JavaScript
@@ -16,7 +15,10 @@
     })
   );
 ```
----
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-k-chu&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight&layout=donut)](https://github.com/eric-k-chu/github-readme-stats)
 
 ## Skills
 
