@@ -5,7 +5,7 @@
 
 [TypeScript Templates](https://github.com/eric-k-chu/templates)
 
-### :clock1: Future Projects...
+### :clock1: Future Projects
 
 ```JavaScript
   await new Promise((resolve) =>
