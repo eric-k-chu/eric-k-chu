@@ -11,9 +11,9 @@
   await new Promise((resolve) =>
     resolve({
       game_2D: "2d game with Godot",
+      game_3D: "Isometric game with Unity/Unreal"
       rubik: "moveable rubiks cube with three.js and Blender",
       tauri: "ffmpeg video clipper with Tauri",
-      game_3D: "Isometric game with Unity/Unreal"
     })
   );
 ```
