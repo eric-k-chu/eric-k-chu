@@ -7,7 +7,7 @@
 
 ### :clock1: Future Projects
 
-```JavaScript
+```TypeScript
   await new Promise((resolve) =>
     resolve({
       tauri: "ffmpeg video clipper with Tauri",
