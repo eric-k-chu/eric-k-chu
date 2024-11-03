@@ -3,7 +3,7 @@
   Hey, I'm Eric!
 </h1>
 
- [TypeScript Templates](https://github.com/eric-k-chu/templates)
+ [Templates](https://github.com/eric-k-chu/templates)
 
 ### :clock1: Future Projects
 
