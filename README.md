@@ -13,7 +13,6 @@
   await new Promise((resolve) =>
     resolve({
       fsharp: "F# study",
-      tauri: "ffmpeg video clipper with Tauri",
       neovim: "neovim setup",
       game_2D: "2d game with Godot",
       game_3D: "Isometric game with Unity/Unreal",
