@@ -5,7 +5,7 @@
 
  [Typescript Templates](https://github.com/eric-k-chu/templates)
 
- [Config](https://github.com/eric-k-chu/config)
+ [Dotfiles](https://github.com/eric-k-chu/config)
 
 ### :clock1: Future Projects
 
