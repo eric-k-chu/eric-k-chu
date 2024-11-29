@@ -7,15 +7,15 @@
 
  [Dotfiles](https://github.com/eric-k-chu/config)
 
-### :clock1: Future Projects
+### :clock1: Future
 
 ```TypeScript
   await new Promise((resolve) =>
     resolve({
       fsharp: "F# study",
-      neovim: "neovim setup",
-      game_2D: "2d game with Godot",
-      game_3D: "Isometric game with Unity/Unreal",
+      vim: "vim motions",
+      game2D: "2d game with Godot",
+      game3D: "Isometric game with Unity/Unreal",
     })
   );
 ```
