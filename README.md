@@ -5,7 +5,9 @@
 
  [Typescript Templates](https://github.com/eric-k-chu/templates)
 
- [Dotfiles](https://github.com/eric-k-chu/config)
+ [Config](https://github.com/eric-k-chu/config)
+
+ [Dotfiles](https://github.com/eric-k-chu/dotfiles)
 
 ### :clock1: Future
 
