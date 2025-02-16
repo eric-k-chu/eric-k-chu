@@ -14,11 +14,11 @@
 ```TypeScript
   await new Promise((resolve) =>
     resolve({
-      fsharp: "F# study",
-      vim: "vim motions",
-      game2D: "2d game with Godot",
-      game3D: "Isometric game with Unity/Unreal",
+      fsharp: 'F# study',
+      vim: 'vim motions',
+      game2D: '2d game with Godot',
+      game3D: 'Isometric game with Unity/Unreal',
     })
-  );
+  )
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-k-chu&theme=tokyonight&layout=donut)](https://github.com/eric-k-chu/github-readme-stats)
