@@ -9,6 +9,7 @@
 ```ts
   await new Promise((resolve) =>
     resolve({
+      astro: 'Astro migration',
       fsharp: 'F# study',
       vim: 'vim motions',
       game2D: '2d game with Godot',
