@@ -11,6 +11,7 @@
     resolve({
       fsharp: 'F# study',
       vim: 'vim motions',
+      mod: 'mc modding',
       game2D: '2d game with Godot',
       game3D: 'Isometric game with Unity/Unreal',
     })
