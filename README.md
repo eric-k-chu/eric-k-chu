@@ -9,6 +9,7 @@
 ```ts
   await new Promise((resolve) =>
     resolve({
+      nix: 'nixOS',
       bun: 's3 with bun',
       fsharp: 'F# study',
       vim: 'vim motions',
